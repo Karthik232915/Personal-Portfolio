@@ -32,7 +32,7 @@ export const projects: Project[] = [
     description: 'Created a personal portfolio website to showcase skills and projects using HTML, CSS, and JS.',
     image: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg',
     tags: ['HTML', 'CSS', 'JavaScript','React', 'Web Design'],
-    github: 'https://github.com/karthik2329',
+    github: 'https://github.com/karthik232915',
   },
   {
     id: 'water-quality',
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     description: 'Developed a real-time water quality monitoring system using a turbidity sensor and C++, improving data accuracy by 70%.',
     image: 'https://images.pexels.com/photos/8943269/pexels-photo-8943269.jpeg',
     tags: ['C++', 'IoT', 'Hardware','Arduino', 'Data Analysis'],
-    github: 'https://github.com/karthik2329',
+    github: 'https://github.com/karthik232915',
   },
   {
     id: 'ui-ux-portal',
